@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200# Commit on 2024-01-03T17:31:00
