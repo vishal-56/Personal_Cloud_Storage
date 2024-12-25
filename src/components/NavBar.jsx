@@ -72,3 +72,4 @@ export default function NavBar({ searchQuery, setSearchQuery }) {
 // Commit on 2024-09-05T13:36:00
 // Commit on 2024-10-12T16:33:00
 // Commit on 2024-11-18T16:41:00
+// Commit on 2024-12-25T12:56:00
